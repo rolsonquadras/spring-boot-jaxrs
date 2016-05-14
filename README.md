@@ -7,6 +7,6 @@ The Spring runtime would not detect the JAX-RS Runtime annotaction. This is achi
 Jersey is used as the JAX-RS implementation in this demo project.
 
 #References
-JAX-RS Spec - https://jax-rs-spec.java.net/
-Jersey - https://jersey.java.net/
-Spring Boot - http://projects.spring.io/spring-boot/
+1. JAX-RS Spec - https://jax-rs-spec.java.net/
+2. Jersey - https://jersey.java.net/
+3. Spring Boot - http://projects.spring.io/spring-boot/
